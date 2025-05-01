@@ -29,9 +29,9 @@
 ###
 
 <div align="left">
-  <a href="https://wa.me/5531988407804" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+ <a href="https://wa.me/5531988407804" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" alt="whatsapp logo" />
+</a>
   <a href="https://www.linkedin.com/in/bernardo-lomas-220830355/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
