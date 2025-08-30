@@ -1,52 +1,59 @@
-<h1 align="left">About me</h1>
+<h1 align="center">Hello World! I´m Bernardo Lomas!!</h1>
 
 ###
 
-<h3 align="left">Hello World! I'm Bernardo Lomas, an Information Systems student at PUC Minas. I'm passionate about technology and excited to be starting my journey in the world of software development.</h3>
+<p align="left">Hello World! I'm Bernardo Lomas, an Information Systems student at PUC Minas. I'm passionate about technology and excited to be starting my journey in the world of software development.</p>
 
 ###
 
-<h1 align="left">Techs</h1>
+<h1 align="center">Techs 🖥️</h1>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-<h1 align="left">Network</h1>
+<h1 align="center">Network</h1>
 
 ###
 
-<div align="left">
- <a href="https://wa.me/5531988407804" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" alt="whatsapp logo" />
-</a>
-  <a href="https://www.linkedin.com/in/bernardo-lomas-220830355/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/bernardolomas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="bernardo.lomasb@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/bernardolomas_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="left">Stats</h1>
+<h1 align="center">Stats</h1>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoLomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoLomas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoLomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BernardoLomas&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=2&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoLomas&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
