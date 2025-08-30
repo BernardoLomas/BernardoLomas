@@ -43,11 +43,11 @@
 
 ###
 
-<h1 align="left">Stats 🔥</h1>
+<h1 align="center">Stats 🔥</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BernardoLomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=BernardoLomas&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=2&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoLomas&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -62,5 +62,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BernardoLomas/BernardoLomas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BernardoLomas/BernardoLomas/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/bernardolomas">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bernardolomas&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
