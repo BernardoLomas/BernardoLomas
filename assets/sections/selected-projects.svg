@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
+<defs><linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#65CCFF" stop-opacity=".85"/><stop offset=".18" stop-color="#DCE3E9" stop-opacity=".65"/><stop offset="1" stop-color="#DCE3E9" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="92" rx="12" fill="#05070A"/>
+<text x="28" y="35" fill="#B9C2CB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2.6">03 / SYSTEM SECTION</text>
+<text x="28" y="67" fill="#F6F8FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="1.1">SELECTED PROJECTS</text>
+<rect x="393" y="56" width="777" height="1.5" fill="url(#line)"/>
+<rect x="393" y="52" width="48" height="1" fill="#65CCFF" opacity=".35"/>
+</svg>

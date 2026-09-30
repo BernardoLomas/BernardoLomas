@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#65CCFF" stop-opacity=".75"/><stop offset=".28" stop-color="#DCE3E9" stop-opacity=".25"/><stop offset="1" stop-color="#DCE3E9" stop-opacity=".04"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="248" rx="16" fill="#0D1117" stroke="#DCE3E9" stroke-opacity=".12"/>
+<rect x="1" y="1" width="6" height="248" rx="3" fill="url(#edge)"/>
+<text x="34" y="42" fill="#B9C2CB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">01 / SELECTED PROJECT</text>
+<text x="34" y="86" fill="#F6F8FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">PURCHASE ORDER API</text>
+<text x="34" y="119" fill="#65CCFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">C#  •  .NET 8  •  REST API  •  SQL  •  xUnit</text>
+<text x="34" y="158" fill="#B9C2CB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Domain modeling, layered architecture, business rules and unit testing.</text>
+<rect x="34" y="191" width="200" height="34" rx="7" fill="#05070A" stroke="#DCE3E9" stroke-opacity=".22"/>
+<text x="134" y="213" text-anchor="middle" fill="#DCE3E9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">BACKEND / IN DEVELOPMENT</text>
+<text x="1137" y="213" text-anchor="end" fill="#DCE3E9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">VIEW REPOSITORY ↗</text>
+</svg>
