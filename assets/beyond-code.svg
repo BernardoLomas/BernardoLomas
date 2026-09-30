@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185">
-<rect width="1200" height="185" rx="14" fill="#0D1117"/>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
-<rect x="28" y="28" width="352" height="129" rx="12" fill="#05070A" stroke="#DCE3E9" stroke-opacity=".12"/><text x="52" y="63" fill="#65CCFF" font-size="12" font-weight="800">01</text><text x="52" y="98" fill="#F6F8FA" font-size="20" font-weight="800">KART</text><text x="52" y="126" fill="#B9C2CB" font-size="13">Focus, precision and competition.</text>
-<rect x="424" y="28" width="352" height="129" rx="12" fill="#05070A" stroke="#DCE3E9" stroke-opacity=".12"/><text x="448" y="63" fill="#65CCFF" font-size="12" font-weight="800">02</text><text x="448" y="98" fill="#F6F8FA" font-size="20" font-weight="800">CONTINUOUS LEARNING</text><text x="448" y="126" fill="#B9C2CB" font-size="13">Understanding how systems work.</text>
-<rect x="820" y="28" width="352" height="129" rx="12" fill="#05070A" stroke="#DCE3E9" stroke-opacity=".12"/><text x="844" y="63" fill="#65CCFF" font-size="12" font-weight="800">03</text><text x="844" y="98" fill="#F6F8FA" font-size="20" font-weight="800">BUILDING</text><text x="844" y="126" fill="#B9C2CB" font-size="13">Turning ideas into working systems.</text>
-</g></svg>
